@@ -1,3 +1,5 @@
+# Contributed by Steven Hannon and Verena Fürnkranz, May 10, 2023
+
 import random
 
 correct_path = 'wwnneseenessswses'
