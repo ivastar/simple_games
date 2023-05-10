@@ -1,3 +1,5 @@
+# Original author: https://gist.github.com/jpwhite3/43037f283cb8b097ec7d19e33ac8006e
+
 import random
 
 CHOICES = 'rps'
