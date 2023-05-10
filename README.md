@@ -258,6 +258,17 @@ Test by running in the terminal:
 ```
 > python hello.py John -l -g Howdy
 ```
+### Rock Paper Scissors Example
+
+Review the Rock Paper Scissors example here: https://github.com/ivastar/simple_games/blob/main/rock_paper_scissors.py
+
+Pay attention to the following: How does the player interacts with the game? What information is provided to the user? 
+
+Also notice how the code is structured. The individual functions are encapsulated in simple functions which each does one thing. This is a good code design principle. Including doc strings is also a great practice. 
+
+### Code Your own Game
+
+Use the templates in the `skeleton` directory to make your own game. Or do something different. This is an "open book" exercise, feel free to use th internet (including the links below) to see implementations of the different games or to find ideas for other games.
 
 ### Resources:
 

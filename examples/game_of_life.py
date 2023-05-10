@@ -1,4 +1,6 @@
 # Python code to implement Conway's Game Of Life
+# Code from here: https://www.geeksforgeeks.org/conways-game-life-python-implementation/
+
 import argparse
 import numpy as np
 import matplotlib.pyplot as plt
